@@ -44,6 +44,7 @@ int main(int argc, char* argv[])
     }
     catch (My_logic_error& e)
     {
+        delete rsc;
         std::cout << e.what() << std::endl;
     }
     return 0;
