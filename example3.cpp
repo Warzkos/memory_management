@@ -1,6 +1,12 @@
 #include <iostream>
 #include <stdexcept>
 
+class My_logic_error : public std::logic_error {
+public:
+    My_logic_error(const char* what): std::logic_error(what) { }
+};
+
+
 void validateArguments(int argc)
 {
     if(argc != 2)
@@ -18,7 +24,7 @@ public:
         std::cout << "Using resource. Passed " << *arg << std::endl;
         if (*arg == 'd')
         {
-            throw std::logic_error("Passed d. d is prohibited.");
+            throw My_logic_error("Passed d. d is prohibited.");
         }
     }
 };
@@ -36,7 +42,7 @@ int main(int argc, char* argv[])
         rsc->use(argument);
         delete rsc;
     }
-    catch (std::logic_error& e)
+    catch (My_logic_error& e)
     {
         std::cout << e.what() << std::endl;
     }
