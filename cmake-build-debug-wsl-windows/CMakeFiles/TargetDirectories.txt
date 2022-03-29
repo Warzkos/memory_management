@@ -1,0 +1,8 @@
+/mnt/c/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug-wsl-windows/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug-wsl-windows/CMakeFiles/edit_cache.dir
+/mnt/c/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug-wsl-windows/CMakeFiles/example6.dir
+/mnt/c/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug-wsl-windows/CMakeFiles/example4.dir
+/mnt/c/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug-wsl-windows/CMakeFiles/example5.dir
+/mnt/c/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug-wsl-windows/CMakeFiles/example3.dir
+/mnt/c/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug-wsl-windows/CMakeFiles/example2.dir
+/mnt/c/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug-wsl-windows/CMakeFiles/example1.dir

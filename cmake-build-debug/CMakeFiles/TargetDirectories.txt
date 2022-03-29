@@ -1,0 +1,8 @@
+C:/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug/CMakeFiles/example1.dir
+C:/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug/CMakeFiles/example2.dir
+C:/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug/CMakeFiles/example3.dir
+C:/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug/CMakeFiles/example4.dir
+C:/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug/CMakeFiles/example5.dir
+C:/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/huber/Documents/PARO2022/memory_management/cmake-build-debug/CMakeFiles/example6.dir
